@@ -1,5 +1,5 @@
 # Overview
-- A guided course which takes you through the journey of building a general purpose computer from the very basic NAND gates.
+- A guided course (https://www.nand2tetris.org/) which takes you through the journey of building a general purpose computer from the very basic NAND gates.
 - Task progresses by building structures based on the previously available structures
 - Things developed throughout:
   1. Using a custom Hardware Definition Language to build basic gates (AND, OR, NOT, etc) using NAND gates as well using these to make multiplexers and demultiplexers.
